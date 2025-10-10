@@ -1,5 +1,4 @@
 # Spatial Demography and Web GIS
-![](https://upload.wikimedia.org/wikipedia/commons/5/55/Population_density.png)
 
 Understanding how **population distribution** and **migration** shape societies, and how we can use **Web GIS** tools to analyze and visualize these dynamics. This topic connects *spatial analysis*, *health geography*, and *digital mapping platforms*.
 
