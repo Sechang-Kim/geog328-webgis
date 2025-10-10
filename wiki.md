@@ -27,7 +27,7 @@ Hosting course material and maps on platforms like **GitHub Pages** ensures easy
 ---
 
 ## Section 3: Applications
-- Mapping health inequalities (e.g., lung cancer mortality in South Korea)  
+- Mapping health inequalities (e.g., Morbidities of diseases in South Korea)  
 - Evaluating migration effectiveness indices (AWMEI)  
 - Building interactive national atlas content for education  
 
